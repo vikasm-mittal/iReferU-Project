@@ -1,0 +1,16 @@
+.vs
+obj
+bin
+packages
+TestResults
+**/StyleCop.Cache
+**/*.exe
+**/*.sfproj.user
+*.DotSettings.user
+DacPackages
+
+*.dbmdl
+
+/iReferU.Application/pkg/Debug/NS.Registration.ActorsPkg/Code/de/Microsoft.Data.Edm.resources.dll
+/iReferU.Application/pkg/Debug
+/iReferU.Application/pkg/Release
